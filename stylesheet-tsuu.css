@@ -88,6 +88,7 @@ display:inline;
   z-index:99;
   bottom:10px;
   right:15px;
+  overflow:hidden;
 }
 .bot-btn{
   cursor: pointer;
@@ -105,6 +106,7 @@ display:inline;
 }
 .container3 {
   position:relative;
+  overflow:hidden;
 }
 .back-ground-layer{
   position:absolute;
@@ -136,6 +138,7 @@ display:inline;
   -webkit-perspective: 1000px;
   perspective: 1000px;
   height: 100vh;
+  overflow:hidden;
 }
 #drag-container,
 #spin-container {
