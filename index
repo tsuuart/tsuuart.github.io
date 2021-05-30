@@ -38,40 +38,40 @@
   <div class="container3">
     <div class="back-ground-layer">
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/chibi_by_monochromaticcat_dd12qct-fullview.png">
+        <img src="pictures/chibi_by_monochromaticcat_dd12qct-fullview.png">
       </div>
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/crimson_queen_by_tsuuart_de2ldlk-fullview.png">
+        <img src="pictures/crimson_queen_by_tsuuart_de2ldlk-fullview.png">
       </div>
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/ddpz6ib-42ab353c-e94f-43de-8b7a-4e242340297f.png">
+        <img src="pictures/ddpz6ib-42ab353c-e94f-43de-8b7a-4e242340297f.png">
       </div>
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/ddupukf-da0136c3-e3b9-44af-8266-d70413a465e5.png">
+        <img src="pictures/ddupukf-da0136c3-e3b9-44af-8266-d70413a465e5.png">
       </div>
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/de5a2or-ce05873f-a8d3-491f-9c93-60a2d877e092.png">
+        <img src="pictures/de5a2or-ce05873f-a8d3-491f-9c93-60a2d877e092.png">
       </div>
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/thumb_70_1.png">
+        <img src="pictures/thumb_70_1.png">
       </div>
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/fox_by_tsuuart_de7dsuw-fullview.png">
+        <img src="pictures/fox_by_tsuuart_de7dsuw-fullview.png">
       </div>
       <div class="mySlides fade-in">
-        <img src="pictures/tsuart/spirit_blossom_ahri_by_tsuuart_de3exdl-fullview.png">
+        <img src="pictures/spirit_blossom_ahri_by_tsuuart_de3exdl-fullview.png">
       </div>
     </div>
     <div id="drag-container">
       <div id="spin-container">
-        <img src="pictures/tsuart/chibi_by_monochromaticcat_dd12qct-fullview.png" class="carImg">
-        <img src="pictures/tsuart/crimson_queen_by_tsuuart_de2ldlk-fullview.png" class="carImg">
-        <img src="pictures/tsuart/ddpz6ib-42ab353c-e94f-43de-8b7a-4e242340297f.png" class="carImg">
-        <img src="pictures/tsuart/ddupukf-da0136c3-e3b9-44af-8266-d70413a465e5.png" class="carImg">
-        <img src="pictures/tsuart/de5a2or-ce05873f-a8d3-491f-9c93-60a2d877e092.png" class="carImg">
-        <img src="pictures/tsuart/thumb_70_1.png" class="carImg">
-        <img src="pictures/tsuart/fox_by_tsuuart_de7dsuw-fullview.png" class="carImg">
-        <img src="pictures/tsuart/spirit_blossom_ahri_by_tsuuart_de3exdl-fullview.png" class="carImg">
+        <img src="pictures/chibi_by_monochromaticcat_dd12qct-fullview.png" class="carImg">
+        <img src="pictures/crimson_queen_by_tsuuart_de2ldlk-fullview.png" class="carImg">
+        <img src="pictures/ddpz6ib-42ab353c-e94f-43de-8b7a-4e242340297f.png" class="carImg">
+        <img src="pictures/ddupukf-da0136c3-e3b9-44af-8266-d70413a465e5.png" class="carImg">
+        <img src="pictures/de5a2or-ce05873f-a8d3-491f-9c93-60a2d877e092.png" class="carImg">
+        <img src="pictures/thumb_70_1.png" class="carImg">
+        <img src="pictures/fox_by_tsuuart_de7dsuw-fullview.png" class="carImg">
+        <img src="pictures/spirit_blossom_ahri_by_tsuuart_de3exdl-fullview.png" class="carImg">
       </div>
     </div>
   </div>
@@ -92,24 +92,24 @@
       <p>Prices and Styles</p>
       <div class="rowContent">
         <div class="boxes">
-          <img src="pictures/tsuart/chibi_by_monochromaticcat_dd12qct-fullview.png">
+          <img src="pictures/chibi_by_monochromaticcat_dd12qct-fullview.png">
           <h3><b>Chibi</b></h3>
           <p>$25 per character, discount for multiple characters. No background/simple background.</p>
         </div>
         <div class="boxes">
-          <img src="pictures/tsuart/portrait.png">
+          <img src="pictures/portrait.png">
           <h3><b>Portrait</b></h3>
           <p>$50 per character, discount for multiple characters. No background/simple background.</p>
 
         </div>
         <div class="boxes">
-          <img src="pictures/tsuart/thumb_70_1.png">
+          <img src="pictures/thumb_70_1.png">
           <h3><b>Splash art</b></h3>
           <p>Multiple characters, poses, backgrounds. Around $200. Image large enough for wall posters. 
             Please contact me with your requirements for detailed pricing.</p>
         </div>
         <div class="boxes">
-          <img src="pictures/tsuart/maple_by_monochromaticcat_dd43ue5-fullview.jpg">
+          <img src="pictures/maple_by_monochromaticcat_dd43ue5-fullview.jpg">
           <h3><b>Other</b></h3>
           <p>For other art styles or image types, please contact me for more info.</p>
         </div>
@@ -121,12 +121,12 @@
     <div class="content3">
       <h2>Contact</h2>
       <i class="fa fa-envelope" style="width:30px"></i> tsuu.commission@gmail.com<br>
-      <img src="pictures/tsuart/discord-brands.svg"> Tsuu#5845<br>
+      <img src="pictures/discord-brands.svg"> Tsuu#5845<br>
       <a href="https://www.instagram.com/tsuuart/?hl=en">
         <i class="fa fa-instagram" style="position:relative;top:1.5px;width:30px"></i>@tsuuart<br>
       </a>
       <a href="https://www.pixiv.net/stacc/tsuuart">
-        <img src="pictures/tsuart/1200px-Pixiv_Icon.svg.png"> tsuuart<br>
+        <img src="pictures/1200px-Pixiv_Icon.svg.png"> tsuuart<br>
       </a>
       <a href="https://www.deviantart.com/tsuuart" style="position:relative;left:-5px;">
         <i class="fa fa-deviantart" style="position:relative;width:30px;right:-5px;"></i> tsuuart<br>
